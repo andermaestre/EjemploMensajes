@@ -1,0 +1,6 @@
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\EnviarMensaje\FuncionesLib\bin\Debug\FuncionesLib.dll
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\EnviarMensaje\FuncionesLib\bin\Debug\FuncionesLib.pdb
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\EnviarMensaje\FuncionesLib\obj\Debug\FuncionesLib.csproj.CoreCompileInputs.cache
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\EnviarMensaje\FuncionesLib\obj\Debug\FuncionesLib.dll
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\EnviarMensaje\FuncionesLib\obj\Debug\FuncionesLib.pdb
+D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 2 Programación Multiproceso\Actividades\EnviarMensaje\FuncionesLib\obj\Debug\FuncionesLib.csprojAssemblyReference.cache
